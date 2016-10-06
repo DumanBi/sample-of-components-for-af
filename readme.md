@@ -14,6 +14,21 @@ Test project on AngularJS. This app is SPA. There are:
 
 ## Installation
 
+```
+npm i -g sinopia && sinopia
+
+npm set registry http://localhost:4873/ && npm adduser && npm login
+
+git clone https://github.com/DumanBi/bm-tags.git && cd bm-tags && npm publish
+
+git clone https://github.com/DumanBi/bm-list.git && cd bm-list && npm publish
+
+git clone https://github.com/DumanBi/bm-form.git && cd bm-form && npm publish
+
+git clone https://github.com/DumanBi/bm-create.git && cd bm-create && npm publish
+
+```
+
 Just write `npm start` and go to localhost:3000
 ```
 npm start
