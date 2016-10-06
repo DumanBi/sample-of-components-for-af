@@ -1,0 +1,22 @@
+{
+  "directory": "bower_components",
+  "resolvers": [
+    "bower-sinopia-resolver"
+  ],
+  "bower-sinopia-resolver": {
+    "scopes": {
+      "socfafbmcreate": {
+        "server": "http://localhost:4873"
+      },
+      "socfafbmlist": {
+        "server": "http://localhost:4873"
+      },
+      "socfafbmform": {
+        "server": "http://localhost:4873"
+      },
+      "socfafbmtags": {
+        "server": "http://localhost:4873"
+      }
+    }
+  }
+}
